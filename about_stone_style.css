@@ -1,0 +1,245 @@
+.about {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.about .div {
+  background-color: #ffffff;
+  width: 1024px;
+  height: 1366px;
+  position: relative;
+}
+
+.about .overlap-group {
+  position: absolute;
+  width: 1024px;
+  height: 386px;
+  top: 980px;
+  left: 0;
+  background-image: url(./img/image-45.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.v219_377 {
+    width: 210px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 83px;
+    left: 407px;
+    font-family: Bokor;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+  }
+
+.about .image {
+  width: 254px;
+  height: 234px;
+  top: 272px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+  z-index: 2;
+}
+
+.about .text-wrapper {
+  position: absolute;
+  width: 210px;
+  top: 82px;
+  left: 407px;
+  text-shadow: 8px 4px 4px #00000040;
+  font-family: "Bokor-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about .info {
+  position: absolute;
+  width: 26px;
+  height: 25px;
+  top: 113px;
+  left: 857px;
+}
+
+.v219_376 {
+  width: 1024px;
+  height: 386px;
+  top: 1100px;
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+  z-index: 1;
+  }
+
+.about .img {
+  width: 85px;
+  height: 18px;
+  top: 119px;
+  left: 95px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.about .image-2 {
+  width: 136px;
+  height: 27px;
+  top: 115px;
+  left: 180px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.about .image-3 {
+  width: 100px;
+  height: 53px;
+  top: 62px;
+  left: 138px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.about .at-rock-bottom-we-re {
+  position: absolute;
+  width: 749px;
+  top: 220px;
+  left: 146px;
+  font-family: "Afacad-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about .span {
+  font-family: "Afacad-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+}
+
+.about .text-wrapper-2 {
+  font-family: "Afacad-Bold", Helvetica;
+  font-weight: 700;
+}.stone-washed {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.stone-washed .div {
+  background-color: #ffffff;
+  width: 1024px;
+  height: 1366px;
+  position: relative;
+}
+
+.stone-washed .overlap-group {
+  position: absolute;
+  width: 1024px;
+  height: 1093px;
+  top: 273px;
+  left: 0;
+}
+
+.stone-washed .image {
+  width: 1024px;
+  height: 386px;
+  top: 707px;
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+
+.stone-washed .stone-washed-jeans {
+  position: absolute;
+  width: 878px;
+  top: 0;
+  left: 94px;
+  font-family: "undefined-Regular", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.stone-washed .img {
+  width: 254px;
+  height: 234px;
+  top: 859px;
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+
+.stone-washed .text-wrapper {
+  position: absolute;
+  width: 210px;
+  top: 82px;
+  left: 407px;
+  text-shadow: 8px 4px 4px #00000040;
+  font-family: "Bokor-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.stone-washed .info {
+  position: absolute;
+  width: 26px;
+  height: 25px;
+  top: 113px;
+  left: 857px;
+}
+
+.stone-washed .p {
+  position: absolute;
+  width: 393px;
+  top: 177px;
+  left: 337px;
+  text-shadow: 8px 4px 4px #00000040;
+  font-family: "Bokor-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.v233_369 {
+    width: 210px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 83px;
+    left: 407px;
+    font-family: Bokor;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+  }
+
+  .v233_377 {
+    width: 393px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 178px;
+    left: 337px;
+    font-family: Bokor;
+    font-weight: Regular;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+  }

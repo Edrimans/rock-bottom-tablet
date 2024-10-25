@@ -1,0 +1,177 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v270_296 {
+  width: 100%;
+  height: 2483px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v270_297 {
+  width: 788px;
+  height: 500px;
+  background: url("belt1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 993px;
+  left: 108px;
+  overflow: hidden;
+}
+.v270_298 {
+  width: 100%;
+  height: 392px;
+  background: url("v270_298.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2334px;
+  left: 273px;
+  transform: rotate(-9deg);
+  overflow: hidden;
+}
+.v270_299 {
+  width: 210px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 83px;
+  left: 407px;
+  font-family: 'Bokor';
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v270_301 {
+  width: 235px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 186px;
+  left: 424px;
+  font-family: 'Bokor';
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 0.800000011920929;
+  text-align: left;
+}
+.v270_317 {
+  width: 804px;
+  height: 509px;
+  background: url("belt2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 339px;
+  left: 108px;
+  overflow: hidden;
+}
+.v270_318 {
+  width: 429px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 893px;
+  left: 324px;
+  font-family: B612;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v270_319 {
+  width: 178px;
+  height: 34px;
+  background: url("protemoa.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1459px;
+  left: 721px;
+  overflow: hidden;
+}
+.v270_320 {
+  width: 353px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1538px;
+  left: 361px;
+  font-family: B612;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v270_337 {
+  width: 353px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2215px;
+  left: 335px;
+  font-family: 'B612';
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.v270_335 {
+  width: 808px;
+  height: 550px;
+  background: url("belt3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1665px;
+  left: 108px;
+  overflow: hidden;
+}
+.component {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  top: 58px;
+  left: 150px;
+}
+
+.component-2 {
+  position: absolute;
+  width: 16px;
+  height: 15px;
+  top: 58px;
+  left: 90px;
+  background-image: url(./img/image-95.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+
+img { 
+  left: 560px;
+}
